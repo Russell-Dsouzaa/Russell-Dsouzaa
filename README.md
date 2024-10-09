@@ -1,4 +1,4 @@
-## Hello There !! <img src = "https://github.com/Russell-Dsouzaa/Russell-Dsouzaa/blob/master/gifs/hand-wave.gif" width = "35px" height = "auto">
+## Hello There !! <img src = "https://github.com/Russell-Dsouzaa/Russell-Dsouzaa/blob/main/gifs/hand-wave.gif" width = "35px" height = auto>
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/Russell-Dsouzaa/Russsell-Dsouzaa/issues/new"><b>here</b></a><br>
