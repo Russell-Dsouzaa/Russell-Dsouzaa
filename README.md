@@ -32,17 +32,15 @@ My Name's Russell Dsouza, I'm 22 years old as of April, 2024. <br><br>I'm a fina
 
 ## Hosting/SAAS :
 ![GITHUB PAGES](https://img.shields.io/badge/GITHUB%20PAGES-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white%22)
-</br>
-</br>
+&emsp;
 ![Vercel](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white")
-</br>
-</br>
+&emsp;
+<br>
 <br>
 
 ## DataBases :
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white")
-<br>
-<br>
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+&emsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 <br>
 <br>
