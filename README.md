@@ -9,12 +9,13 @@ Ask me anything <a href="https://github.com/Russell-Dsouzaa/Russsell-Dsouzaa/iss
 My Name's Russell Dsouza, I'm 22 years old as of April, 2024. <br><br>I'm a final year Computer Science student, I am fluent in multiple programming languages such as C, Python and javaScript, and I have practical experience with front-end frameworks such as ReactJS. I have a strong understanding of databases such as MySQL and MongoDB. <br><br> While at college, I developed a strong interest towards Web-Development( HTML,CSS & JS ) and Programming, in general. I am eager to use my technical expertise and passion for innovation in a dynamic & challenging environment. 😊<br><br><br>
 
 ## Socials :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/russell-dsouza-203987252/) &ensp;
-[![GMail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pks85715@gmail.com)](mailto:220russell0021@dbit.in) 
-<br><br><br><br>
+<br>
+[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/russell-dsouza-203987252/) &ensp;
+[![GMail](https://img.shields.io/badge/gmail%20-red.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:220russell0021@dbit.in) 
+<br><br><br>
 
 ## Programming & Markup Languages :
-<a href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 &emsp;
 ![Python](https://img.shields.io/badge/python-%23323330.svg?style=for-the-badge&logo=python&logoColor=%23F7DF1E&color=blue)
 &emsp;
@@ -30,23 +31,31 @@ My Name's Russell Dsouza, I'm 22 years old as of April, 2024. <br><br>I'm a fina
 <br>
 
 ## Hosting/SAAS :
-<a href="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="c" width="100" height=auto/> </a>
+![GITHUB PAGES](https://img.shields.io/badge/GITHUB%20PAGES-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white%22)
 </br>
 </br>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+![Vercel](https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white")
 </br>
 </br>
 <br>
 
+## DataBases :
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white")
+<br>
+<br>
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+<br>
+<br>
+<br>
+
 ## Frameworks and Libraries :
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="80" height=auto/> </a>
-</br>
-</br>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="100" height=auto/> </a>
-</br>
-</br>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height=auto/> </a>
-</br>
-</br>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height=auto/> </a>
+![ExpressJS](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
+&emsp;
+![ReactJS](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
+&emsp;
+![NodeJS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+&emsp;
+![BootStrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
+&emsp;
+![TailWindCSS](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=whit)
 
