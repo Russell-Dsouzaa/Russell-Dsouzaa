@@ -14,7 +14,7 @@ My Name's Russell Dsouza, I'm 22 years old as of April, 2024. <br><br>I'm a fina
 
 ## Programming & Markup Languages :
 </br>
-![Python](https://img.shields.io/pypi/pyversions/:packageName) 
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 </br>
 </br>
 [!JavaScript(https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)] 
