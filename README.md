@@ -1,1 +1,1 @@
-## Hello There !! <img src = "./gifs/hand-wave.gif" width = "40" height = auto>
+## Hello There !! <img src = "./gifs/hand-wave.gif" width = "35px" height = auto>
