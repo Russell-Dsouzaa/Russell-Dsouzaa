@@ -1,1 +1,1 @@
-## Hello There !! <img src = "./gifs.hand-wave.gif">
+## Hello There !! <img src = "./gifs/hand-wave.gif">
