@@ -10,8 +10,8 @@ My Name's Russell Dsouza, I'm 22 years old as of April, 2024. <br><br>I'm a fina
 
 ## Socials :
 <br>
-[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/russell-dsouza-203987252/) &ensp;
-[![GMail](https://img.shields.io/badge/gmail%20-red.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:220russell0021@dbit.in) 
+<a href="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a> &ensp;
+<a href="mailto:220russell0021@dbit.in"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <br><br><br>
 
 ## Programming & Markup Languages :
