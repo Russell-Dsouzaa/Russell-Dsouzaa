@@ -47,7 +47,7 @@ My Name's Russell Dsouza, I'm 22 years old as of April, 2024. <br><br>I'm a fina
 <br>
 
 ## Frameworks and Libraries :
-![ExpressJS](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
+![ExpressJS](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge&logo=express&logoColor=white)
 &emsp;
 ![ReactJS](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 &emsp;
@@ -55,5 +55,5 @@ My Name's Russell Dsouza, I'm 22 years old as of April, 2024. <br><br>I'm a fina
 &emsp;
 ![BootStrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 &emsp;
-![TailWindCSS](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=whit)
+![TailWindCSS](https://img.shields.io/badge/tailwindcss%20-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
 
