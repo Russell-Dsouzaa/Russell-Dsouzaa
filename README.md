@@ -6,7 +6,7 @@ Ask me anything <a href="https://github.com/Russell-Dsouzaa/Russell-Dsouzaa/issu
 <i>Happy Coding!</i> 😊<br><br><br>
 
 # About Me :
-My Name's Russell Dsouza, I'm 22 years old as of April, 2024. <br><br>I'm a final year Computer Science student, I am fluent in multiple programming languages such as C, Python and javaScript, and I have practical experience with front-end frameworks such as ReactJS. I have a strong understanding of databases such as MySQL and MongoDB. <br><br> While at college, I developed a strong interest towards Web-Development( HTML,CSS & JS ) and Programming, in general. I am eager to use my technical expertise and passion for innovation in a dynamic & challenging environment. 😊<br><br><br>
+My Name's Russell Dsouza, I'm 22 years old as of April, 2024. <br><br>I'm a final year Computer Science student, I am fluent in multiple programming languages such as C, Python and javaScript, and I have practical experience with front-end frameworks such as ReactJS. I have a strong understanding of databases such as MySQL and MongoDB. <br><br> While at college, I developed a strong interest towards Web-Development( HTML,CSS & JS ) and Programming, in general. I am eager to use my technical expertise and passion for innovation in a dynamic & challenging environment. 😊<br><br><a href = "https://russell-dsouza-resume.tiiny.site/">My resume</a><br><br><br>
 
 ## Socials :
 <br>
