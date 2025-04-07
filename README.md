@@ -21,6 +21,10 @@ My Name's Russell Dsouza, I'm 22 years old as of April, 2024. <br><br>I'm a fina
 &emsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 &emsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)  <!-- https://img.shields.io/badge/html-blue?style=for-the-badge&logo=html&logocolor=white -->
+&emsp;
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logocolor=white)
+&emsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 &emsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
